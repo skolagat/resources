@@ -1,3 +1,6 @@
+thousands of  free programming books:
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-sharp
+
 [![Gitter chat](https://badges.gitter.im/andreis/interview.png)](https://gitter.im/andreis/interview)
 
 ### Contents
